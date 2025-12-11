@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "fd421d5820360e14",
+        "id": "ad7e7c0653b179ae",
         "type": "tabs",
         "children": [
           {
-            "id": "cdccc6b5ed85816c",
+            "id": "b36738b20be19f4c",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -37,7 +37,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": true
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -173,7 +173,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -187,8 +188,27 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d9ec0fa4a767ff5b",
+  "active": "53c9618ec7b61474",
   "lastOpenFiles": [
+    "Untitled.md",
+    "https:/github.com/danish-ali-droid/Devops-Course.git",
+    "https:/github.com/danish-ali-droid",
+    "https:/github.com",
+    "https:",
+    "Untitled 10.md",
+    "Untitled 11.md",
+    "Untitled 9.md",
+    "Untitled 8.md",
+    "Untitled 7.md",
+    "Untitled 6.md",
+    "Untitled 5.md",
+    "Untitled 4.md",
+    "Untitled 3.md",
+    "Untitled 2.md",
+    "Untitled 1.md",
+    "Untitled",
+    "devops-course",
+    "Untitled.base",
     "Untitled.canvas",
     "2025-12-11.md"
   ]
